@@ -1,4 +1,5 @@
 # Getting Started
+
 ### New to Zeet? Start here!
 
 # Missing a Dockerfile?
